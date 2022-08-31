@@ -56,4 +56,4 @@ Planned to add all egg support. Like just selecting egg type it will automatical
 # Coding Developer
 ## [NavinShanmugam](https://www.linkedin.com/in/navin-navin-985b39239/),[Seujip Ulrich Réné]()
 # Hardware Developer
-## [NavinShanmugam]()
+## [NavinShanmugam](https://www.linkedin.com/in/navin-navin-985b39239/)
