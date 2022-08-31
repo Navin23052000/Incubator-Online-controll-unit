@@ -171,21 +171,6 @@ void loop()
   if (c == '\n') {
     Parse_the_data();
 
-    //Serial.print("this is arduino nano :) \n");//// sended data to arduino nano
-    /* Serial.println("RemainingHour = " + RemainingHour1);
-       Serial.println("RemainingMinutes = " + RemainingMinutes2);
-       Serial.println("RemainingSecond = " + RemainingSecond3);
-       Serial.println("LiveTemp = " + LiveTemp4);
-       Serial.println("LiveHum = " + LiveHum5);
-       Serial.println("remainingDays = " + remainingDays6);
-       Serial.println("SetedTemp = " + SetedTemp7);
-       Serial.println("SetedHum = " + SetedHum8);
-       Serial.println("setedDays = " + setedDays9);
-       Serial.println("setedHours = " + SetedTemp10);
-       Serial.println("setedMinutes = " + SetedHum11);
-       Serial.println("setedTimeBetweenRotation = " + extravalue12);
-       Serial.println("==========================================");*/
-
     readingtemphum();
 
     c = 0;
