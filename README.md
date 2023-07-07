@@ -54,6 +54,6 @@ Planned to add all egg support. Like just selecting egg type it will automatical
 * Days not Changing properly(Soon it will be fixed)
 * Egg turning days not added for all Eggs(Soon it will be fixed)
 # Coding Developer
-## [NavinShanmugam](https://www.linkedin.com/in/navin-navin-985b39239/),[Seujip Ulrich Réné]()
+## [NavinShanmugam](https://www.linkedin.com/in/navin-navin-985b39239/)
 # Hardware Developer
 ## [NavinShanmugam](https://www.linkedin.com/in/navin-navin-985b39239/)
